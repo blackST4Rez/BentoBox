@@ -60,8 +60,7 @@ A modern and responsive **Bento Grid UI** built using **HTML5** and **CSS3**. Th
 │   ├── collab.svg
 │   └── ...
 │
-├── 📂 CSS
-│   └── main.css
+├── style.css
 │
 ├── index.html
 └── README.md
