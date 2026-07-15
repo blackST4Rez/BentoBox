@@ -226,3 +226,28 @@ body{
 .logo-div{
     margin-top: 10px;
 }
+
+.main-container{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.foot-txt{
+    font-family: 'Limelight', sans-serif;
+    font-size: 25px;
+    color: bisque;
+}
+
+.a-txt{
+    text-decoration: none;
+    font-family: "Henny Penny", system-ui;
+    color: #000000;
+    transition: color 0.3s ease-in-out;
+}
+
+.a-txt:hover{
+    text-decoration: none;
+    font-family: "Henny Penny", system-ui;
+    color: #13191c;
+}
